@@ -6,7 +6,7 @@ const MiddleBody = () => {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
-            marginTop: '68px',
+            marginTop: '130px',
             // fontFamily: "'Poppins', sans-serif",
             fontFamily: "'Inter', sans-serif",
         }}>
